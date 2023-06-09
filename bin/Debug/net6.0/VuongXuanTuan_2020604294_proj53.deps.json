@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "VuongXuanTuan_2020604294_proj53/1.0.0": {
+        "runtime": {
+          "VuongXuanTuan_2020604294_proj53.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VuongXuanTuan_2020604294_proj53/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

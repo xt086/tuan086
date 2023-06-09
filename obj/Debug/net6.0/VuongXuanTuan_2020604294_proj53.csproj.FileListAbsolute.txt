@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\VuongXuanTuan_2020604294_proj52\VuongXuanTuan_2020604294_proj53\obj\Debug\net6.0\VuongXuanTuan_2020604294_proj53.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\VuongXuanTuan_2020604294_proj52\VuongXuanTuan_2020604294_proj53\obj\Debug\net6.0\VuongXuanTuan_2020604294_proj53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\VuongXuanTuan_2020604294_proj52\VuongXuanTuan_2020604294_proj53\obj\Debug\net6.0\VuongXuanTuan_2020604294_proj53.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\VuongXuanTuan_2020604294_proj52\VuongXuanTuan_2020604294_proj53\obj\Debug\net6.0\VuongXuanTuan_2020604294_proj53.AssemblyInfo.cs
+C:\Users\Admin\source\repos\VuongXuanTuan_2020604294_proj52\VuongXuanTuan_2020604294_proj53\obj\Debug\net6.0\VuongXuanTuan_2020604294_proj53.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\VuongXuanTuan_2020604294_proj52\VuongXuanTuan_2020604294_proj53\bin\Debug\net6.0\VuongXuanTuan_2020604294_proj53.exe
+C:\Users\Admin\source\repos\VuongXuanTuan_2020604294_proj52\VuongXuanTuan_2020604294_proj53\bin\Debug\net6.0\VuongXuanTuan_2020604294_proj53.deps.json
+C:\Users\Admin\source\repos\VuongXuanTuan_2020604294_proj52\VuongXuanTuan_2020604294_proj53\bin\Debug\net6.0\VuongXuanTuan_2020604294_proj53.runtimeconfig.json
+C:\Users\Admin\source\repos\VuongXuanTuan_2020604294_proj52\VuongXuanTuan_2020604294_proj53\bin\Debug\net6.0\VuongXuanTuan_2020604294_proj53.dll
+C:\Users\Admin\source\repos\VuongXuanTuan_2020604294_proj52\VuongXuanTuan_2020604294_proj53\bin\Debug\net6.0\VuongXuanTuan_2020604294_proj53.pdb
+C:\Users\Admin\source\repos\VuongXuanTuan_2020604294_proj52\VuongXuanTuan_2020604294_proj53\obj\Debug\net6.0\VuongXuanTuan_2020604294_proj53.dll
+C:\Users\Admin\source\repos\VuongXuanTuan_2020604294_proj52\VuongXuanTuan_2020604294_proj53\obj\Debug\net6.0\refint\VuongXuanTuan_2020604294_proj53.dll
+C:\Users\Admin\source\repos\VuongXuanTuan_2020604294_proj52\VuongXuanTuan_2020604294_proj53\obj\Debug\net6.0\VuongXuanTuan_2020604294_proj53.pdb
+C:\Users\Admin\source\repos\VuongXuanTuan_2020604294_proj52\VuongXuanTuan_2020604294_proj53\obj\Debug\net6.0\VuongXuanTuan_2020604294_proj53.genruntimeconfig.cache
+C:\Users\Admin\source\repos\VuongXuanTuan_2020604294_proj52\VuongXuanTuan_2020604294_proj53\obj\Debug\net6.0\ref\VuongXuanTuan_2020604294_proj53.dll
